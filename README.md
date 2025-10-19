@@ -8,7 +8,7 @@
 Author: Ishwarya R
 Tools Used: HTML, CSS, JavaScript
 
-Live Project: Click here to view{ }
+Live Project: Click here to view{ " https://ishwarya2244.github.io/WEBSITE-of-my-CHANNEL-EAGLE/" }
 
 Description:
 
